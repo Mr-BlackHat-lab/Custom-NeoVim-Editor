@@ -1,6 +1,6 @@
 # 🚀 Custom Neovim Config
 
-Welcome to your personalized Neovim setup! This configuration is designed for productivity, aesthetics, and ease of use. Below you'll find all the key shortcuts, plugin highlights, and a dedicated section for screenshots to showcase your beautiful editor.
+Welcome to My personalized Neovim setup! This configuration is designed for productivity, aesthetics, and ease of use. Below you'll find all the key shortcuts, plugin highlights, and a dedicated section for screenshots to showcase your beautiful editor.
 
 ---
 
