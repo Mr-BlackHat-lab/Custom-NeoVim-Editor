@@ -84,10 +84,11 @@ Welcome to your personalized Neovim setup! This configuration is designed for pr
 
 ## 🖼️ Screenshots
 
-> **Place your Neovim screenshots below to show off your setup!**
+
 
 ![Neovim Screenshot 1](screenshots/screenshot1.png)
 ![Neovim Screenshot 2](screenshots/screenshot2.png)
+![Neovim Screenshot 3](screenshots/screenshot3.png)
 
 ---
 
@@ -107,7 +108,7 @@ Welcome to your personalized Neovim setup! This configuration is designed for pr
 ## 🛠️ How to Use
 1. Clone this repo into your Neovim config directory:
    ```sh
-   git clone <your-repo-url> ~/.config/nvim
+   git clone https://github.com/Mr-BlackHat-lab/Custom-NeoVim-Editor.git ~/.config/nvim
    ```
 2. Open Neovim and run `:Lazy sync` to install plugins.
 3. Enjoy your custom workflow!
@@ -122,13 +123,9 @@ Welcome to your personalized Neovim setup! This configuration is designed for pr
 ---
 
 ## 📣 Credits
-Made with ❤️ by [Your Name]
+Made with ❤️ by Prahalad Singh
 
 ---
 
-## 📁 Screenshots Directory
-Create a `screenshots/` folder in your config and add your images for easy sharing!
-
----
 
 > **Enjoy coding with your beautiful, powerful Neovim!**
